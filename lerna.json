@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "packages": [
+    "packages/*"
+  ],
+  "publish": {
+    "ignoreChanges": ["*.md"],
+    "message": "chore(release): publish"
+  },
+  "bootstrap": {
+    "ignore": "component-*",
+    "npmClientArgs": ["--no-package-lock"]
+  }
+}
