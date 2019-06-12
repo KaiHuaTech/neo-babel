@@ -4,11 +4,15 @@
     "packages/*"
   ],
   "publish": {
-    "ignoreChanges": ["*.md"],
+    "ignoreChanges": [
+      "*.md"
+    ],
     "message": "chore(release): publish"
   },
   "bootstrap": {
     "ignore": "component-*",
-    "npmClientArgs": ["--no-package-lock"]
+    "npmClientArgs": [
+      "--no-package-lock"
+    ]
   }
 }
