@@ -1,5 +1,5 @@
 # babel-preset-neo-react
-A babel-preset from NeoFe React App.
+A babel-preset from NeoFE React App.
 
 ## Install
 `npm i babel-neo-react`

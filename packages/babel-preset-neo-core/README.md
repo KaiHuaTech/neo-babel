@@ -1,5 +1,5 @@
 # babel-preset-neo-core
-A babel-preset from NeoFe.
+A babel-preset from NeoFE.
 
 ## Install
 `npm i babel-neo-core`
