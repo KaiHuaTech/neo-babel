@@ -1,9 +1,11 @@
 {
   "name": "babel-preset-neo-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "core babel-preset for NeoFE",
   "main": "src/index.js",
-  "files": ["src"],
+  "files": [
+    "src"
+  ],
   "scripts": {
     "demo": "babel demo/source --out-dir demo/dist"
   },
