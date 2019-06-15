@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-neo-core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "core babel-preset for NeoFE",
   "main": "src/index.js",
   "files": [
